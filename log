@@ -12,3 +12,11 @@ Today I've added some game objects, interactions, materials as well.
 The version control issue is resolved. 
 Need a big screen to work on the environment; currently having scaling issue, and physics as well
 ---
+
+
+---
+Wed Feb 5 10:24 AM 
+-Deleted previous game objects
+-Added new game objects/ foundations for the room 
+-No animation or interactions at the moment because all the previous were removed.
+---
