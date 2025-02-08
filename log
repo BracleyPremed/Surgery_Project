@@ -20,3 +20,12 @@ Wed Feb 5 10:24 AM
 -Added new game objects/ foundations for the room 
 -No animation or interactions at the moment because all the previous were removed.
 ---
+
+---
+Fri Feb 7 8:09 PM 
+-Deleted some of the sides added previously which were plane gameObjects because they were invisible; today they have been replaced by cube shaped using ProBuilder 
+-Added an interactive game object but was not able to test it because of space issue
+-Thinking about create a teleportation system on next session.
+---
+
+
