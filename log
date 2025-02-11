@@ -29,3 +29,15 @@ Fri Feb 7 8:09 PM
 ---
 
 
+
+---
+Tue Feb 11 1:58 PM
+Added the teleportation system to one section of the world.
+Tested distance grab interaction.
+Need to work on the distance between the roof and ground 
+Light Is also coming in from one side of the room, this needs to be fix as well.
+Hierarchy needs clean up and more organization
+---
+
+
+
